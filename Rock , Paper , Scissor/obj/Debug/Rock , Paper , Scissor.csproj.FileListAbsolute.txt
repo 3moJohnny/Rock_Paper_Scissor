@@ -1,0 +1,7 @@
+C:\Users\ZT\source\repos\Rock , Paper , Scissor\Rock , Paper , Scissor\bin\Debug\Rock , Paper , Scissor.exe.config
+C:\Users\ZT\source\repos\Rock , Paper , Scissor\Rock , Paper , Scissor\bin\Debug\Rock , Paper , Scissor.exe
+C:\Users\ZT\source\repos\Rock , Paper , Scissor\Rock , Paper , Scissor\bin\Debug\Rock , Paper , Scissor.pdb
+C:\Users\ZT\source\repos\Rock , Paper , Scissor\Rock , Paper , Scissor\obj\Debug\Rock , Paper , Scissor.csproj.AssemblyReference.cache
+C:\Users\ZT\source\repos\Rock , Paper , Scissor\Rock , Paper , Scissor\obj\Debug\Rock , Paper , Scissor.csproj.CoreCompileInputs.cache
+C:\Users\ZT\source\repos\Rock , Paper , Scissor\Rock , Paper , Scissor\obj\Debug\Rock , Paper , Scissor.exe
+C:\Users\ZT\source\repos\Rock , Paper , Scissor\Rock , Paper , Scissor\obj\Debug\Rock , Paper , Scissor.pdb
